@@ -11,7 +11,9 @@ body{
 
 .title{
     color: hsl(0, 0%, 100%);
-    padding: 30px;
+    padding-right: 80px;
+    padding-left: 80px;
+    padding-top: 40px;
     font-family: 'Lexend Deca', sans-serif;
     font-weight: 400;
 }
@@ -24,8 +26,14 @@ body{
     color:hsla(0, 0%, 100%, 0.75);
     font-family: 'Inter', sans-serif;
     font-weight: 400;
-    padding-right: 30px;
-    padding-left: 30px;
+    font-size: 15px;
+    padding-right: 90px;
+    padding-left: 90px;
+}
+
+#statsrow{
+    padding-right: 90px;
+    padding-left: 90px;
 }
 
 .statheading{
