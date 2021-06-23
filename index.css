@@ -53,10 +53,16 @@ body{
 }
 
 .headerimg{
-    object-fit:cover;
     opacity: 0.5;
+    flex-shrink: 0;
+    min-width: 100%;
+    min-height: 100%
 }
 
 #imgarea{
     background: #AB5CDB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden
 }
