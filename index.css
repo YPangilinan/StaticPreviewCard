@@ -18,7 +18,6 @@ body{
 .row {
     display: flex;
     flex-direction: row-reverse;
-    background: hsl(244, 38%, 16%);
   }
 
 .col-lg-6{
@@ -99,6 +98,10 @@ body{
 {
     #mainRow{
         flex-direction: column;
+    }
+
+    .row{
+        margin-left:-10px;
     }
 
     .card{
