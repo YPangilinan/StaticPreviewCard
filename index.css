@@ -1,3 +1,27 @@
 body{
     background-color: #0A0C1C;
+    font-size: 15px;
+}
+
+.card{
+    background-color: #1B1937;
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+}
+
+.insights{
+    color: #AB5CDB;
+}
+
+.description{
+    color:hsla(0, 0%, 100%, 0.75);
+    font-family: 'Lexend Deca', sans-serif;
+}
+
+.statheading{
+    color: #ffffff
+}
+
+.statcaption{
+    color:hsla(0, 0%, 100%, 0.6);
 }
