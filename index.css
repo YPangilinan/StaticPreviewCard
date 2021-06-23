@@ -9,19 +9,42 @@ body{
     font-weight: 700;
 }
 
+.title{
+    color: hsl(0, 0%, 100%);
+    padding: 30px;
+    font-family: 'Lexend Deca', sans-serif;
+    font-weight: 400;
+}
+
 .insights{
     color: #AB5CDB;
 }
 
 .description{
     color:hsla(0, 0%, 100%, 0.75);
-    font-family: 'Lexend Deca', sans-serif;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    padding-right: 30px;
+    padding-left: 30px;
 }
 
 .statheading{
-    color: #ffffff
+    color: #ffffff;
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
 }
 
 .statcaption{
     color:hsla(0, 0%, 100%, 0.6);
+}
+
+.headerimg{
+    object-fit:cover;
+    opacity: 0.5;
+    padding-left: -20px;
+    padding-right: -40px;
+}
+
+#imgarea{
+    background: #AB5CDB;
 }
