@@ -15,13 +15,15 @@ body{
     filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
 }
 
+#textcol{
+    padding: 50px;
+}
+
 .title{
     color: hsl(0, 0%, 100%);
-    padding-right: 80px;
-    padding-left: 80px;
-    padding-top: 40px;
     font-family: 'Lexend Deca', sans-serif;
     font-weight: 400;
+    margin-bottom: 20px;
 }
 
 .insights{
@@ -33,13 +35,11 @@ body{
     font-family: 'Inter', sans-serif;
     font-weight: 400;
     font-size: 15px;
-    padding-right: 90px;
-    padding-left: 90px;
+    margin-bottom: 80px;
 }
 
 #statsrow{
-    padding-right: 90px;
-    padding-left: 90px;
+    margin-top: 20px;
 }
 
 .statheading{
