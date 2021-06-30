@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://ypangilinan.github.io/StaticPreviewCard/](https://ypangilinan.github.io/StaticPreviewCard/
+- Live Site URL: [https://ypangilinan.github.io/StaticPreviewCard/](https://ypangilinan.github.io/StaticPreviewCard/)
 
 ## My process
 
