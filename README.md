@@ -20,12 +20,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./Card.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [https://ypangilinan.github.io/StaticPreviewCard/](https://ypangilinan.github.io/StaticPreviewCard/
 
 ## My process
