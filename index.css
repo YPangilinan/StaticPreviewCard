@@ -101,7 +101,7 @@ body{
     }
 
     .row{
-        margin-left:-10px;
+        margin-left:-150px;
     }
 
     .card{
@@ -114,10 +114,11 @@ body{
 
     #textcol{
         text-align: center;
-        padding-top: 50px;
+        /* padding-top: 50px;
         padding-left: 30px;
         padding-right: 30px;
-        padding-bottom: 82px;
+        padding-bottom: 82px; */
+        
     }
 
     .description{
@@ -132,12 +133,13 @@ body{
 
     #imgarea{
         height: 240px;
-        position: relative; 
-        overflow: hidden;
+        width: 800px;
+        margin-right: 110px;
+        /* position: relative; */
     }
     
     .overlay{
-        position: absolute;
+        /* position: absolute; */
         top: 0;
         left: 0;
         width:100%;
