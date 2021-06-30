@@ -96,12 +96,9 @@ body{
 
 @media only screen and (min-width : 320px) and (max-width: 500px)
 {
-    #mainRow{
-        flex-direction: column;
-    }
-
+    
     .row{
-        margin-left:-150px;
+        flex-direction: column;
     }
 
     .card{
@@ -110,6 +107,10 @@ body{
         height: 780px;
         left: 70px;
         top: 88px;
+    }
+
+    .col-lg-6{
+        flex: 0 0 auto;
     }
 
     #textcol{
@@ -133,8 +134,8 @@ body{
 
     #imgarea{
         height: 240px;
-        width: 800px;
-        margin-right: 110px;
+        width: 325px;
+        margin-left: 12px;
         /* position: relative; */
     }
     
